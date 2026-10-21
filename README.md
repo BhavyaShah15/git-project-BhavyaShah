@@ -11,3 +11,7 @@ I am a student at ugSOT, currently learning Git and GitHub.
 ## Projects
 -<project name>: one line about it
 -<project name>: one line about it
+
+## Social Links
+-GitHub: https://github.com/BhavyaShah15
+-LinkedIn: https://BhavyaShah15.com
